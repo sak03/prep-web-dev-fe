@@ -1,0 +1,10 @@
+@import 'variables';
+
+$enable-ltr: true;
+$enable-rtl: true;
+
+@import 'globalStyle';
+
+@import 'footer';
+
+@import 'settings';
